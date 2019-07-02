@@ -1,0 +1,34 @@
+src/*.exe
+src/Billionairecoin
+src/Billionairecoind
+src/test_Billionairecoin
+.*.swp
+*.*~*
+*.bak
+*.rej
+*.orig
+*.o
+*.patch
+.Billionairecoin
+
+# Compilation and Qt preprocessor part
+*.qm
+Makefile
+Billionairecoin-qt
+Billionairecoin-Qt.app
+
+# Unit-tests
+Makefile.test
+Billionairecoin-qt_test
+
+# Resources cpp
+qrc_*.cpp
+
+# Qt creator
+*.pro.user
+
+# Mac specific
+.DS_Store
+build
+
+!src/leveldb*/Makefile

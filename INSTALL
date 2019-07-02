@@ -1,0 +1,9 @@
+Building Billionairecoin
+
+See doc/readme-qt.rst for instructions on building Billionairecoin-Qt,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of Billionairecoin.
+
+See doc/build-*.txt for instructions on building Billionairecoind,
+the intended-for-services, no-graphical-interface, reference
+implementation of Billionairecoin.
